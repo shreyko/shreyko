@@ -1,0 +1,46 @@
+@media (max-width: 1037px){
+    #spline3{
+        display: none;
+    }
+    #spline7{
+        display: block;
+        height: 700px;
+        width: 100%;
+        
+    }
+    #spline8{
+        display: none;
+    }
+}
+@media (min-width: 1037px){
+    #spline3{
+        display: block;
+        height: 700px;
+        width: 100%;
+        
+    }
+    #spline7{
+        display: none;
+        
+    }
+    #spline8{
+        display: none;
+    }
+
+}
+@media (max-width: 500px){
+    #spline3{
+        display: none;
+    }
+    #spline7{
+        display: none;
+
+        
+    }
+    #spline8{
+        display: block;
+        height: 700px;
+        width: 100%;
+    }
+}
+

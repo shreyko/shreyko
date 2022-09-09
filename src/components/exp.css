@@ -1,0 +1,45 @@
+
+@media (max-width: 1037px){
+    #spline4{
+        display: none;
+    }
+    #spline10{
+        display: block;
+        height: 790px;
+        width: 100%;
+        
+    }
+    #spline11{
+        display: block;
+        height: 790px;
+        width: 100%;
+        
+    }
+    #spline12{
+        display: block;
+        height: 500px;
+        width: 100%;
+        
+    }
+}
+@media (min-width: 1037px){
+    #spline4{
+        display: block;
+        height: 750px;
+        width: 100%;
+        
+    }
+    #spline10{
+        display: none;
+        
+    }
+    #spline11{
+        display: none;
+    }
+    #spline12{
+        display: none;
+        
+    }
+
+}
+

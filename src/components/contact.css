@@ -1,0 +1,26 @@
+
+
+@media (min-width: 450px){
+    #spline5{
+        display: block;
+        height: 500px;
+        width: 100%;
+        
+    }
+    #spline14{
+        display: none;
+        
+    }
+
+}
+@media (max-width: 450px){
+    #spline5{
+        display: none;
+    }
+    #spline14{
+        display: block;
+        height: 500px;
+        width: 100%;
+        
+    }
+}
