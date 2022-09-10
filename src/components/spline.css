@@ -5,16 +5,17 @@
     }
     #spline2{
         display: block;
-        height: 500px;
-        width: 100%;
+        height: 200px;
+       
+        
         
     }
 }
 @media (min-width: 700px){
     #spline1{
         display: block;
-        height: 500px;
-        width: 100%;
+        height: 400px;
+        
         
     }
     #spline2{
@@ -29,8 +30,9 @@
     }
     #spline2{
         display: block;
-        height: 500px;
-        width: 100%;
+        height: 200px;
+        
         
     }
 }
+

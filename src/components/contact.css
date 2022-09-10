@@ -24,3 +24,14 @@
         
     }
 }
+@media (max-width: 300px){
+    #spline5{
+        display: none;
+    }
+    #spline14{
+        display: block;
+        height: 400px;
+        width: 100%;
+        
+    }
+}

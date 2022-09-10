@@ -1,4 +1,4 @@
-
+import React,{ Suspense } from 'react';
 import './App.css';
 import Navbar from "./components/navbar";
 import Splinepre from "./components/spline-pre";
@@ -9,12 +9,14 @@ import Contacticon from "./components/contact-icon";
 function App() {
   return (
     <>
+    <Suspense fallback = {<spinner />}>
     <Navbar/>
     <Splinepre/>
     <Spline/>
     <Exp/>
     <Conatct/>
     <Contacticon/>
+    </Suspense>
     </>
     
   );
