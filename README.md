@@ -1,3 +1,15 @@
+## About
+
+Hello there, I am an undergrad sohphomore and rising programmer, fluent in many domains of computer science.
+Welcome to my Github page!!
+This is a readme.md for my personal - portfolio :
+check it out at https://shreyko.github.io/shreyko/ to learm more about me.
+You can also find my socials there:)
+
+
+
+
+
 ## Personal - Portfolio
 
 This is the latest version of my personal portfolio.
