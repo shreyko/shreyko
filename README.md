@@ -10,7 +10,9 @@ check it out at https://shreyko.github.io/shreyko/, to learm more about me.
 
 You can also find my socials there:)
 
+## Github Projects
 
+To look at my other personal projects, feel free to explore my GutHub!!
 
 
 
